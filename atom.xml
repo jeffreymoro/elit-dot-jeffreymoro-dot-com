@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>E.LIT / NET.ART</title>
+ <link href="http://elit.jeffreymoro.com//atom.xml" rel="self"/>
+ <link href="http://elit.jeffreymoro.com//"/>
+ <updated>2015-09-24T19:50:00-04:00</updated>
+ <id>http://elit.jeffreymoro.com</id>
+ <author>
+   <name>Jeffrey Moro</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
