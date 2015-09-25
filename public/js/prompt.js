@@ -95,6 +95,9 @@ function commandPrompt(){
               promptInput === "zorns lemma 2" ||
               promptInput === "zornslemma2") {
     window.location.href = "/screening/zorns-bookchin/";
+  } else if ( promptInput === "monocode" || 
+              promptInput === "monocodes") {
+    window.location.href = "/screening/monocodes-rutterford/";
   } else if (promptInput === "about"){
     window.location.href = "/about";
   } else if (promptInput === "otters"){
