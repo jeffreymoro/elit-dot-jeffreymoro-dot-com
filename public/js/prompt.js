@@ -21,6 +21,7 @@ function commandPrompt(){
   var promptElement = document.getElementById("input");
   var promptInput = promptElement.value;
   promptInput = promptInput.toLowerCase();
+  promptInput = promptInput.trim();
   if (promptInput === "gallery") {
     window.location.href = "/gallery";
   } else if ( promptInput === "afternoon" || 
